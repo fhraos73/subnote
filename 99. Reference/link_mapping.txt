@@ -1,0 +1,73 @@
+# 연관 토픽 매핑
+
+## 아키텍처 그룹
+SW Architecture 평가 → SW Architecture, ISO-IEC-IEEE 42010, 아키텍처 모델-패턴
+아키텍처 모델-패턴 → SW Architecture, MVC패턴, MVVM, MVI패턴
+
+## 디자인 패턴 그룹
+MVC패턴 → MVVM, MVI패턴, 아키텍처 모델-패턴
+MVVM → MVC패턴, MVI패턴
+MVI패턴 → MVC패턴, MVVM
+
+## 설계 원칙
+모듈화 → SW Architecture, 객체지향 설계의 원리
+
+## UML 그룹
+UML-Diagram 전체 → UML의 관계, Class diagram, Usecase diagram, Sequence diagram
+UML의 관계 → UML-Diagram 전체, Class diagram
+Class diagram → UML-Diagram 전체, UML의 관계, 객체지향 설계의 원리
+Usecase diagram → UML-Diagram 전체, 활동 다이어그램
+활동 다이어그램 → UML-Diagram 전체, 상태 머신 다이어그램
+상태 머신 다이어그램 → UML-Diagram 전체, 활동 다이어그램
+Sequence diagram → UML-Diagram 전체, Class diagram
+
+## 오픈소스 그룹
+오픈소스 소프트웨어 → 오픈소스 License 분류
+오픈소스 License 분류 → 오픈소스 소프트웨어
+
+## 테스트 그룹
+Test 일반 → 테스트 관리, 블랙박스 테스트, 화이트박스 테스트, ISO 29119
+테스트 관리 → Test 일반, Test Coverage
+블랙박스 테스트 → Test 일반, 화이트박스 테스트, 경험기반 기법
+화이트박스 테스트 → Test 일반, 블랙박스 테스트, Test Coverage
+회귀 테스트 → Test 일반, 소프트웨어 리팩토링
+경험기반 기법 → Test 일반, 블랙박스 테스트
+성능 테스트 → Test 일반
+ISO 29119 → Test 일반, 테스트 관리
+Test Coverage → 테스트 관리, 화이트박스 테스트
+
+## 품질 관리 그룹
+프로젝트 QM → ISO-IEC 25010, CMMI, 테스트 관리
+ISO-IEC 25010 → 프로젝트 QM, SW Architecture 평가
+CMMI → 프로젝트 QM, SP 인증
+
+## 안정성 분석 그룹
+SW 안정성-분석 개념 → FTA, FMEA, HAZOP
+FTA → SW 안정성-분석 개념, FMEA, HAZOP
+FMEA → SW 안정성-분석 개념, FTA, HAZOP
+HAZOP → SW 안정성-분석 개념, FTA, FMEA
+
+## 감리 그룹
+정보시스템 감리 → 정보시스템 감리 Framework, 감리절차, 감리 PMO 비교
+정보시스템 감리 Framework → 정보시스템 감리, 감리절차
+감리절차 → 정보시스템 감리, 감리결과보고서 작성하기
+감리결과보고서 작성하기 → 감리절차, 정보시스템 감리
+감리 PMO 비교 → 정보시스템 감리
+클라우드 감리 → 정보시스템 감리, 빅데이터 감리
+운영감리 → 정보시스템 감리, 유지보수 감리
+유지보수 감리 → 정보시스템 감리, 운영감리, 3R
+빅데이터 감리 → 정보시스템 감리, 클라우드 감리
+SP 인증 → CMMI, 정보시스템 감리
+
+## 비용 산정 그룹
+간이법 계산 → SW사업 대가 산정 가이드
+SW사업 대가 산정 가이드 → 간이법 계산, AI 개발비 산정
+AI 개발비 산정 → SW사업 대가 산정 가이드
+
+## 유지보수 그룹
+Lehman 소프트웨어 변화 → 3R, 소프트웨어 리팩토링
+3R → Lehman 소프트웨어 변화, 소프트웨어 리팩토링, 유지보수 감리
+소프트웨어 리팩토링 → 3R, Lehman 소프트웨어 변화, 회귀 테스트
+
+## 배포
+무중단 배포 기법 → 소프트웨어 리팩토링, 클라우드 감리
