@@ -1,4 +1,4 @@
-#SW공학 #UML #모델링
+#SW공학 #UML #모델링 #SW공학/UML/모델링
 
 ## 정의
 UML 요소 간 연결 관계, UML Relationship

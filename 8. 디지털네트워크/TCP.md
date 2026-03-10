@@ -1,4 +1,4 @@
-#디지털네트워크 #TCP #전송계층 #필수
+#디지털네트워크 #TCP #전송계층 #필수 #디지털네트워크/TCP/UDP
 ## 정의
 연결지향 신뢰성 전송 프로토콜, TCP
 - Transmission Control Protocol, OSI 4계층에서 동작하는 연결지향형 프로토콜

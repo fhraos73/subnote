@@ -1,4 +1,4 @@
-#데이터베이스 #동시성제어 #MVCC #다중버전 #필수
+#데이터베이스 #동시성제어 #MVCC #다중버전 #필수 #데이터베이스/동시성제어
 ## 정의
 다중 버전 동시성 제어, MVCC
 - Multi-Version Concurrency Control

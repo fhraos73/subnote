@@ -1,4 +1,4 @@
-#디지털네트워크 #SCTP #전송계층 #옵션
+#디지털네트워크 #SCTP #전송계층 #옵션 #디지털네트워크/TCP/UDP
 ## 정의
 메시지 지향 신뢰성 전송 프로토콜, SCTP
 - Stream Control Transmission Protocol, TCP와 UDP의 장점을 결합한 전송 계층 프로토콜

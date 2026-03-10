@@ -1,4 +1,4 @@
-#프로젝트관리 #아키텍처 #필수
+#프로젝트관리 #아키텍처 #필수 #SW공학/SW_아키텍처
 
 ## 정의
 MSA와 Monolithic Architecture

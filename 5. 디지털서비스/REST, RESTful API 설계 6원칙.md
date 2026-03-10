@@ -1,4 +1,4 @@
-#정보관리기술사 #디지털서비스 #REST #RESTful #API #정의
+#정보관리기술사 #디지털서비스 #REST #RESTful #API #정의 #디지털서비스/웹/API/프로토콜
 ## 정의
 **분산 하이퍼미디어 SW 아키텍처, REST**
 - REST(Representational State Transfer): 분산 하이퍼미디어 시스템을 위한 SW 아키텍처 스타일로, 부가적인 전송레이어 없이 전송하는 경량 HTTP 프로토콜 기반 기술

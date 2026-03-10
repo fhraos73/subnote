@@ -1,4 +1,4 @@
-#AI #디지털전환 #경영전략
+#AI #디지털전환 #경영전략 #AI/LLM/생성AI
 
 ## 정의
 AI 기반의 비즈니스 혁신, AX (AI Transformation)

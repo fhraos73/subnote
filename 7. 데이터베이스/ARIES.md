@@ -1,4 +1,4 @@
-#데이터베이스 #회복기법 #ARIES #필수
+#데이터베이스 #회복기법 #ARIES #필수 #데이터베이스/트랜잭션/회복
 ## 정의
 3단계 회복 알고리즘, ARIES
 - Algorithm for Recovery and Isolation Exploiting Semantics

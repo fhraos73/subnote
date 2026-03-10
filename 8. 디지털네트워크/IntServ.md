@@ -1,4 +1,4 @@
-#디지털네트워크 #QoS #IntServ #필수
+#디지털네트워크 #QoS #IntServ #필수 #디지털네트워크/QoS
 ## 정의
 통합 서비스(IntServ)
 - RSVP 시그널링을 통해 End-to-End QoS를 보장하는 Fine-grained QoS 아키텍처

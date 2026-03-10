@@ -1,4 +1,4 @@
-#디지털네트워크 #ORAN #AIRAN #필수
+#디지털네트워크 #ORAN #AIRAN #필수 #디지털네트워크/5G/6G
 ## 정의
 O-RAN / AI-RAN
 - O-RAN: 개방형 인터페이스 기반 멀티벤더 무선접속망 아키텍처 (O-RAN Alliance 표준)

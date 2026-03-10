@@ -1,4 +1,4 @@
-#디지털네트워크 #QoS #DiffServ #필수
+#디지털네트워크 #QoS #DiffServ #필수 #디지털네트워크/QoS
 ## 정의
 차등 서비스(DiffServ)
 - DSCP 기반 클래스별 차등 서비스를 제공하는 Coarse-grained QoS 아키텍처

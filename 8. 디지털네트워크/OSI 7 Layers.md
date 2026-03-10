@@ -1,4 +1,4 @@
-#디지털네트워크 #OSI #네트워크계층 #필수
+#디지털네트워크 #OSI #네트워크계층 #필수 #디지털네트워크/OSI/프로토콜
 ## 정의
 네트워크 통신 표준 참조 모델, OSI 7계층
 - ISO에서 1984년 제정한 개방형 시스템 상호연결(Open Systems Interconnection) 참조 모델
@@ -9,7 +9,9 @@
 * 물데네전세표응: 물리-데이터링크-네트워크-전송-세션-표현-응용
 * 아파서티내다피: Application-Presentation-Session-Transport-Network-Data Link-Physical
 * PDU: 비프패세메메데: 비트-프레임-패킷-세그먼트-메시지-메시지-데이터
-## 구성요소
+## 구성요소 
+- PDU; Protocol Data Unit
+
 | 계층 | 명칭 | PDU | 주요 기능 | 프로토콜/장비 |
 |------|------|-----|-----------|---------------|
 | 7 | 응용(Application) | Data | 사용자 인터페이스 제공 | HTTP, FTP, SMTP |

@@ -1,4 +1,4 @@
-#데이터베이스 #NewSQL #분산SQL #ACID #필수
+#데이터베이스 #NewSQL #분산SQL #ACID #필수 #데이터베이스/NoSQL/분산
 ## 정의
 분산 SQL 데이터베이스
 - RDBMS의 ACID 트랜잭션과 SQL 인터페이스를 유지하면서 NoSQL의 수평 확장성을 결합한 차세대 데이터베이스

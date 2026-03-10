@@ -1,4 +1,4 @@
-#IT경영전략 #IT서비스관리 #필수
+#IT경영전략 #IT서비스관리 #필수 #IT경영전략/IT_거버넌스/서비스관리
 
 ## 정의
 ITIL 4.0 (IT Infrastructure Library)

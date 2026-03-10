@@ -1,4 +1,4 @@
-#디지털네트워크 #TCP #혼잡제어 #필수
+#디지털네트워크 #TCP #혼잡제어 #필수 #디지털네트워크/TCP/UDP
 ## 정의
 네트워크 혼잡 방지 전송 제어, TCP Congestion Control
 - 네트워크 혼잡 상황에서 송신측의 전송률을 조절하여 패킷 손실을 방지하는 메커니즘
@@ -16,13 +16,13 @@
 | Fast Retransmit | 3 Dup ACK 시 즉시 재전송 | 타임아웃 대기 없이 재전송 |
 | Fast Recovery | 빠른 회복 | ssthresh = cwnd/2, cwnd = ssthresh |
 ## TCP 혼잡제어 버전
-| 버전 | 특징 | 알고리즘 |
-|------|------|----------|
-| TCP Tahoe | 초기 버전 | Slow Start, CA, Fast Retransmit |
-| TCP Reno | 빠른 회복 추가 | + Fast Recovery |
-| TCP NewReno | 부분 ACK 처리 | Reno 개선 |
-| TCP CUBIC | 리눅스 기본 | 3차 함수 기반 증가 |
-| TCP BBR | 구글 개발 | 대역폭 기반 제어 |
+| 버전          | 특징        | 알고리즘                            |
+| ----------- | --------- | ------------------------------- |
+| TCP Tahoe   | 초기 버전     | Slow Start, CA, Fast Retransmit |
+| TCP Reno    | 빠른 회복 추가  | + Fast Recovery                 |
+| TCP NewReno | 부분 ACK 처리 | Reno 개선                         |
+| TCP CUBIC   | 리눅스 기본    | 3차 함수 기반 증가                     |
+| TCP BBR     | 구글 개발     | 대역폭 기반 제어                       |
 ## 구성도
 ```
 [혼잡제어 동작 흐름]

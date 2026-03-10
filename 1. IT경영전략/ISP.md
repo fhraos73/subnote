@@ -1,4 +1,4 @@
-#IT경영전략 #정보전략계획 #필수
+#IT경영전략 #정보전략계획 #필수 #IT경영전략/경영전략/분석_기법
 
 ## 정의
 ISP (Information Strategy Planning) 9.0

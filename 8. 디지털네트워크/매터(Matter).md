@@ -1,4 +1,4 @@
-#디지털네트워크 #IoT #스마트홈 #필수
+#디지털네트워크 #IoT #스마트홈 #필수 #디지털네트워크/Wi-Fi/IoT
 ## 정의
 스마트홈 통합 표준, Matter
 - CSA(Connectivity Standards Alliance)가 개발한 스마트홈 기기 간 상호운용성 표준 프로토콜
