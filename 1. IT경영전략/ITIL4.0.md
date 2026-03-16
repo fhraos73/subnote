@@ -7,7 +7,7 @@ IT 서비스 관리를 위한 전 세계적인 ==Best Practice== 프레임워크
 - 4차 산업혁명 시대의 신기술(AI, 클라우드 등)과 애자일 방식이 반영된 최신 버전
 특징) 가치 공동 창출, 서비스 가치 시스템(SVS), 4차원 모델, De-facto
 ## 키워드
-* 가치 창출(Value), SVC, SVS, 4차 산업혁명 대응, Agile/[[DevOps]] 통합
+* 가치 창출(Value), SVC, SVS, 4차 산업혁명 대응, Agile/[[DevOps]] 통합, ISO 20000
 ## 암기법
 * 조정파가 (조직, 정보, 파트너, 가치흐름 - 4 Dimensions)
 - 플인디오디임: Plan, Engage, Design/Transition, Obtain/Build, Delivery/Support, Improve (SVC)

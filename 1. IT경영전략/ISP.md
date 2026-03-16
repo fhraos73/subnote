@@ -37,6 +37,19 @@ ISP (Information Strategy Planning) 9.0
                                           ▼
                              [ 정보전략 로드맵 (ISP Report) ]
 ```
+
+```
+
+ISP (정보화 전략 수립)
+      ↓
+ISMP (사업 기획)
+      ↓
+RFP 작성
+      ↓
+사업자 선정
+      ↓
+시스템 구축
+```
 ## 연관 토픽
 - [[ISMP]] - 정보보호 전략
 - [[IT Governance]] - IT 거버넌스

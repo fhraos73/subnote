@@ -6,9 +6,9 @@
 - 품질속성(성능, 보안, 확장성)을 만족시키기 위한 시스템의 근본적인 조직과 구조
 ## 키워드
 - Component, Connector, Configuration
-- 4+1 View, IEEE 42010, SAD
+- 4+1 View, IEEE 42010, SAD(Software Architecture Document)
 ## 암기법
-- **4+1**: 유논프구배 (UseCase-Logical-Process-Implementation-Physical)
+- **4+1**: 유논프구배 (==유==즈케이스뷰, ==논==리뷰, ==프==로세스뷰, ==구==현뷰, ==배==포뷰)
 ## 목적
 - Stakeholder 간 관점 조율, 시스템 최적화
 - 요구사항 간 충돌 조정 및 우선순위 결정

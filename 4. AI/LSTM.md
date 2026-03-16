@@ -1,6 +1,7 @@
 #AI #딥러닝 #자연어처리 #필수 #AI/딥러닝_아키텍처
 
 ## 정의
+Long Short-Term Memory
 장기 의존성 문제를 해결한 순환 신경망, LSTM
 - RNN의 장기의존성 문제 해결을 위해 Hidden Layer를 Input Gate, Output Gate, Forget Gate라는 세 가지 게이트를 이용하여 해결한 알고리즘
 - 중요한 정보는 오래 기억하고, 불필요한 정보는 잊는 메커니즘

@@ -1,6 +1,8 @@
 #IT경영전략 #논리적사고 #필수 #IT경영전략/경영전략/분석_기법
 
 ## 정의
+Mutually Exclusive, Collectively Exhaustive
+Linearly Independent Spanning Set
 문제 해결을 위한 중복 없는 최적의 분석 기법, MECE/LISS
 - MECE: 어떤 사항을 중복 없이(Exclusive), 누락 없이(Exhaustive) 부분으로 나누는 원리
 - LISS: 중요한 포인트를 누락 없이 파악하되 전체의 핵심을 논리적으로 구성하는 기법

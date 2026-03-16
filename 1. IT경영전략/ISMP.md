@@ -1,11 +1,12 @@
 #IT경영전략 #정보전략계획 #IT경영전략/경영전략/분석_기법
 
 ## 정의
+Information System Master Plan
 특정 정보시스템 구축 이행 계획 기법, ISMP
 - 정보시스템 구축 사업의 범위, 요건, 이행 방안을 상세히 정의하여 발주 프로세스를 지원하는 활동
 - [[ISP]]의 결과물을 구체화하거나 독립적으로 추진하여 사업의 성공 가능성을 높임
 ## 키워드
-* 상세 설계, FP, RFP, ISP/ISMP 비교
+* 상세 설계, FP(Function Point), RFP(Request For Proposal), ISP/ISMP 비교
 ## 암기법
 * 참방기구행 (참여, 방향, 기술, 구조, 이행)
 ## 목적

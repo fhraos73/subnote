@@ -1,7 +1,7 @@
 #SW공학 #안전성 #SPTA #SW공학/SW_품질/테스트
 
 ## 정의
-시스템 이론 프로세스 분석, SPTA System Theoretic Process Analysis
+시스템 이론 프로세스 분석, STPA; System Theoretic Process Analysis
 - 제어 구조 기반 위험 분석 기법
 ## 키워드
 - SPTA, System-Theoretic, UCA

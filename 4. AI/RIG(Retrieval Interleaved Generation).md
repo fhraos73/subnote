@@ -14,7 +14,7 @@
 - [[RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
 - [[LLM]] - 대규모 언어 모델
 - [[MCP(Model Context Protocol)]]
-- [[MOE(Mixture of Experts)]]
+- [[MoE(Mixture of Experts)]]
 - [[환각 현상(Hallucination)]] - LLM 한계
 ## RAG vs RIG
 | 구분 | RAG | RIG |

@@ -7,7 +7,7 @@ AI 기반 자동 코드 생성, AI 코딩
 ## 키워드
 - Vibe coding, AI Pair Programming, LLM, Cursor
 ## 암기법
-- AI 코딩 3단계: 프코리 (Prompt-Code-Review)
+- AI 코딩 4단계: 프코리오 (Prompt-Code-Review-Orchestration)
 ## 목적
 - AI 기반 코드 생성으로 개발 생산성 극대화
 - 반복 작업 자동화로 창의적 업무에 집중

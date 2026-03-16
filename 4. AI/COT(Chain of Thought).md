@@ -12,7 +12,7 @@
 ## 연관 토픽
 - [[LLM]] - 대규모 언어 모델
 - [[RAG(Retrieval Augmented Generation)]] - 검색 증강 생성
-- [[MOE(Mixture of Experts)]] - 전문가 혼합
+- [[MoE(Mixture of Experts)]] - 전문가 혼합
 ## 동작 원리
 ```
 ┌─────────────────────────────────────────────────┐
